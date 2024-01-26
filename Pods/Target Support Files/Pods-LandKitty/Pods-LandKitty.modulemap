@@ -1,0 +1,6 @@
+framework module Pods_LandKitty {
+  umbrella header "Pods-LandKitty-umbrella.h"
+
+  export *
+  module * { export * }
+}
